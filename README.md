@@ -1,4 +1,4 @@
-# FarmTech---Machine-Learning-Models-for-Accurate-Crop-Yield-Forecasting
+# FarmTech-Machine-Learning-Models-for-Accurate-Crop-Yield-Forecasting
 
 ## Project Overview
 This project aims to predict crop yields using historical agricultural data from 71 countries, covering 10 different crops from the years 1990 to 2013. The model incorporates multiple environmental and agricultural factors, such as area, yield (hg/ha), average rainfall, pesticide usage, and average temperature. By employing advanced machine learning algorithms and regression models, we forecast future yields, offering valuable insights for optimizing agricultural productivity and addressing global food security.
